@@ -108,6 +108,8 @@ The dashboard contains:
 -   Subscription Status slicer
 -   Category slicer
 -   Shipping Type slicer
+<img width="1255" height="679" alt="image" src="https://github.com/user-attachments/assets/07ac45b3-3d78-44bc-b270-518bf33c2bae" />
+
 
 ### Key dashboard observations
 
